@@ -54,9 +54,11 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="somethingnew.cs" />
     <Compile Include="StripedDatagridView.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="TestGitClass.cs" />
     <Compile Include="UpperTextbox.cs">
       <SubType>Component</SubType>
     </Compile>
